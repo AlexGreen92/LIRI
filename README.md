@@ -8,3 +8,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
    * `movie-this '<movie name here>'`
 
    * `do-what-it-says` (reads command from random.txt file)
+
+![Screenshot](Screenshot(16).png)
+![Screenshot](Screenshot(17).png)
+![Screenshot](Screenshot(18).png)
+![Screenshot](Screenshot(19).png)
