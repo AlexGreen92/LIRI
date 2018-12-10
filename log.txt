@@ -1,0 +1,281 @@
+Venue name : Mandalay Bay Events Center 
+Venue location : Las Vegas 
+Date of Event : 12/30/2018
+--------------------------------- 
+Venue name : Mandalay Bay Events Center 
+Venue location : Las Vegas 
+Date of Event : 12/31/2018
+--------------------------------- 
+Venue name : Brisbane Entertainment Centre 
+Venue location : Brisbane 
+Date of Event : 02/19/2019
+--------------------------------- 
+Venue name : Rod Laver Arena 
+Venue location : Melbourne 
+Date of Event : 02/22/2019
+--------------------------------- 
+Venue name : Qudos Bank Arena 
+Venue location : Sydney 
+Date of Event : 02/21/2019
+--------------------------------- 
+Venue name : Tokyo Dome 
+Venue location : Tokyo 
+Date of Event : 02/25/2019
+--------------------------------- 
+Venue name : Gocheok Sky Dome 
+Venue location : Seoul 
+Date of Event : 02/27/2019
+--------------------------------- 
+Venue name : TBA 
+Venue location : Macau 
+Date of Event : 03/03/2019
+--------------------------------- 
+Venue name : TBA 
+Venue location : Kaohsiung City 
+Date of Event : 03/01/2019
+--------------------------------- 
+Venue name : SM Mall Of Asia 
+Venue location : Manila 
+Date of Event : 03/05/2019
+--------------------------------- 
+Venue name : NATIONAL STADIUM 
+Venue location : Singapore 
+Date of Event : 03/07/2019
+--------------------------------- 
+Venue name : CHALLENGER HALL 
+Venue location : Bangkok 
+Date of Event : 03/09/2019
+--------------------------------- 
+Venue name : Mollenpark 
+Venue location : Aalborg 
+Date of Event : 06/01/2019
+--------------------------------- 
+Venue name : Lanxess Arena 
+Venue location : Cologne 
+Date of Event : 06/03/2019
+--------------------------------- 
+Venue name : O2 ARENA 
+Venue location : Prague 
+Date of Event : 06/05/2019
+--------------------------------- 
+Venue name : Tauron Arena 
+Venue location : Kraków 
+Date of Event : 06/06/2019
+--------------------------------- 
+Venue name : Ziggo Dome 
+Venue location : Amsterdam 
+Date of Event : 06/10/2019
+--------------------------------- 
+Venue name : AccorHotels Arena 
+Venue location : Paris 
+Date of Event : 06/11/2019
+--------------------------------- 
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Californication 
+Preview url : https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Otherside 
+Preview url : https://p.scdn.co/mp3-preview/3dfe48540e8c8b3a4b3434837952a3aa5b9291e9?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Scar Tissue 
+Preview url : https://p.scdn.co/mp3-preview/8602533a3ae6da937635c5fd8ae270d53ad291dc?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Californication 
+Preview url : https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Scar Tissue 
+Preview url : https://p.scdn.co/mp3-preview/ce0ca8203aeb30dfe1f2160d9aa36abbad5fc2f2?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Otherside 
+Preview url : https://p.scdn.co/mp3-preview/3dfe48540e8c8b3a4b3434837952a3aa5b9291e9?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Around The World 
+Preview url : https://p.scdn.co/mp3-preview/ab3d501c5ffbf560e94094f76cd36d874a26e941?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Road Trippin' 
+Preview url : https://p.scdn.co/mp3-preview/044c9f913db571f0ee2a146cb8814de9f8da6896?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Parallel Universe 
+Preview url : https://p.scdn.co/mp3-preview/a2d9130dbebe702b908add7eeb6658238093812b?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : This Velvet Glove 
+Preview url : https://p.scdn.co/mp3-preview/8d78e63007322c6ef69b2abad337f3375e794582?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Californication 
+Preview url : https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Otherside 
+Preview url : https://p.scdn.co/mp3-preview/3dfe48540e8c8b3a4b3434837952a3aa5b9291e9?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Scar Tissue 
+Preview url : https://p.scdn.co/mp3-preview/8602533a3ae6da937635c5fd8ae270d53ad291dc?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Californication 
+Preview url : https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Scar Tissue 
+Preview url : https://p.scdn.co/mp3-preview/ce0ca8203aeb30dfe1f2160d9aa36abbad5fc2f2?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Otherside 
+Preview url : https://p.scdn.co/mp3-preview/3dfe48540e8c8b3a4b3434837952a3aa5b9291e9?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Around The World 
+Preview url : https://p.scdn.co/mp3-preview/ab3d501c5ffbf560e94094f76cd36d874a26e941?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : Road Trippin' 
+Preview url : https://p.scdn.co/mp3-preview/044c9f913db571f0ee2a146cb8814de9f8da6896?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication (Deluxe Version) 
+Song name : Parallel Universe 
+Preview url : https://p.scdn.co/mp3-preview/a2d9130dbebe702b908add7eeb6658238093812b?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Red Hot Chili Peppers 
+Album name : Californication 
+Song name : This Velvet Glove 
+Preview url : https://p.scdn.co/mp3-preview/8d78e63007322c6ef69b2abad337f3375e794582?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Title : Rambo: First Blood Part II 
+Year : 22 May 1985 
+IMDB Rating : 6.4 
+Rotten Tomatoes : 6.4/10 
+Rotten Tomatoes : 6.4/10 
+Country : USA, Mexico 
+Language : English, Vietnamese, Russian 
+Movie Plot : John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam. 
+Actors : Sylvester Stallone, Richard Crenna, Charles Napier, Steven Berkoff
+Artist : Backstreet Boys 
+Album name : The Hits--Chapter One 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Backstreet Boys 
+Album name : Millennium 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Anthem Lights 
+Album name : Covers Part IV 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Tyler and Mark 
+Album name : Beautiful Dreams 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : "Weird Al" Yankovic 
+Album name : Poodle Hat 
+Song name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+Preview url : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Various Artists 
+Album name : 90 Sweet 90s Hits! 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Various Artists 
+Album name : Punk Goes Pop 
+Song name : I Want It That Way 
+Preview url : null 
+-------------------------------------
+Artist : NKOTBSB 
+Album name : NKOTBSB 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Manuel Costa 
+Album name : I Want It That Way 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Boyce Avenue 
+Album name : Cover Sessions, Vol. 2 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Backstreet Boys 
+Album name : The Hits--Chapter One 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Backstreet Boys 
+Album name : Millennium 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Anthem Lights 
+Album name : Covers Part IV 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Tyler and Mark 
+Album name : Beautiful Dreams 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Various Artists 
+Album name : Punk Goes Pop 
+Song name : I Want It That Way 
+Preview url : null 
+-------------------------------------
+Artist : "Weird Al" Yankovic 
+Album name : Poodle Hat 
+Song name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+Preview url : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Various Artists 
+Album name : 90 Sweet 90s Hits! 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : NKOTBSB 
+Album name : NKOTBSB 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Manuel Costa 
+Album name : I Want It That Way 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
+Artist : Boyce Avenue 
+Album name : Cover Sessions, Vol. 2 
+Song name : I Want It That Way 
+Preview url : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d10dcf0b1c364271a3331d1105f89099 
+-------------------------------------
