@@ -9,6 +9,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
    * `do-what-it-says` (reads command from random.txt file)
 
+Screenshots how it works:
+
 ![Screenshot](https://github.com/AlexGreen92/project8/blob/master/Screenshot%20(16).png)
 ![Screenshot](https://github.com/AlexGreen92/project8/blob/master/Screenshot%20(17).png)
 ![Screenshot](https://github.com/AlexGreen92/project8/blob/master/Screenshot%20(18).png)
